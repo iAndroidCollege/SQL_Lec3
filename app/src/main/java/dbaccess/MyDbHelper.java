@@ -1,4 +1,4 @@
-package college.edu.tomer.sql_lec3;
+package dbaccess;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

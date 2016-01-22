@@ -4,6 +4,11 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
 
+import fragments.CustomersFragment;
+import fragments.EmployeeFragment;
+import fragments.OrdersFragment;
+import fragments.ProductFragment;
+
 /**
  * Created by master on 20/01/2016.
  */

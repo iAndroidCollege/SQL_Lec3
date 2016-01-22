@@ -11,7 +11,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="college.edu.tomer.sql_lec3.AddProductActivity"
-    tools:showIn="@layout/activity_add_product">
+    >
 
     <EditText
         android:hint="Product Name"

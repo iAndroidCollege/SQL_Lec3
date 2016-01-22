@@ -2,7 +2,7 @@
              xmlns:tools="http://schemas.android.com/tools"
              android:layout_width="match_parent"
              android:layout_height="match_parent"
-             tools:context="college.edu.tomer.sql_lec3.CustomersFragment">
+             tools:context="fragments.CustomersFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
